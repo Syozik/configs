@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "configurations": [
+    {
+      "id": "profile_1782467995466_hvpxjr",
+      "name": "Home",
+      "outputs": {
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "profile_1782719096786_4p5l7z",
+      "name": "Work",
+      "outputs": {
+        "DP-3": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "DP-4": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1763,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 2810,
+            "y": 1080
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 3683,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_3371e933",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 701,
+            "y": 1080
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "DP-3": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_eed335ba",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 1080
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_5af6115",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_1503c712",
+      "name": "",
+      "outputs": {
+        "DP-4": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 969,
+            "y": 1080
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_894d6cbd",
+      "name": "",
+      "outputs": {
+        "DP-4": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 969,
+            "y": 1080
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_5467317c",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "DP-3": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_1f80f63b",
+      "name": "",
+      "outputs": {
+        "DP-2": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_ea9abafa",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "DP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_51e00b54",
+      "name": "",
+      "outputs": {
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1205,
+            "y": 1080
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "DP-2": {
+          "mode": "1920x1080@74.973",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "90",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    },
+    {
+      "id": "auto_704e2d75",
+      "name": "",
+      "outputs": {
+        "HDMI-A-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "eDP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 1920,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        },
+        "DP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 3840,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {}
+        }
+      }
+    }
+  ]
+}

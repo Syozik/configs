@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 1,
+  "plugins": {
+    "dankKDEConnect": {
+      "repo": "https://github.com/AvengeMedia/dms-plugins",
+      "path": "DankKDEConnect",
+      "commit": "a8a508bc371e7c3f2c7862d8840b88cf5c63978f"
+    },
+    "quickCapture": {
+      "repo": "https://github.com/hthienloc/dms-plugins",
+      "path": "quickCapture",
+      "commit": "30841c817c152bda1c969e0b91d034ccc9a75b86"
+    }
+  }
+}
